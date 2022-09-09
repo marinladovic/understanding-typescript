@@ -1,0 +1,14 @@
+{
+  "name": "typescript_course",
+  "version": "1.0.0",
+  "description": "A sandbox app for following a Typescript course",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "marin",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
